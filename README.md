@@ -2,7 +2,7 @@
 
 #Lista de integrantes
 
-Nombre:
-Apellido:
-Edad:
-Ciudad:
+Nombre: Lucia
+Apellido: Sánchez
+Edad: 32
+Ciudad: Mar del Plata
