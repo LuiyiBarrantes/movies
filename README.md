@@ -16,3 +16,8 @@ Nombre: Martin
 Apellido: Araneda   
 Edad: 27
 Ciudad: Mendoza
+
+Nombre: Luis Alfredo
+Apellido: Barrantes
+Edad: 30
+Ciudad: Rafael Calzada
