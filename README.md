@@ -11,3 +11,8 @@ Nombre: Maximiliano
 Apellido: Alonso
 Edad: 36
 Ciudad: Monte grande
+
+Nombre: Martin
+Apellido: Araneda   
+Edad: 27
+Ciudad: Mendoza
